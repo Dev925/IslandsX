@@ -1,1 +1,15 @@
+name: IslandsX
+main: devl28107\IslandsX\Main
+api: 3.0.0
+author: devl28107
+description: A new SkyBlock plugin
 
+commands:
+  islands:
+    description: Opens the island ui
+    permission: islands.command
+
+permissions:
+  islands.command:
+    description: Island command perms
+    default: true

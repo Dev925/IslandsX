@@ -1,7 +1,7 @@
 # IslandsX
 
-A new SkyBlock plugin by Dev925
+IslandsX is a new SkyBlock plugin made by Dev925
 
 # Setup
 
-Use the /sb setup to get started!
+The setup is simple. Simply do /sbsettup and we will guide you through!
